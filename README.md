@@ -5,7 +5,7 @@
 ## Installation
 
 ```bash
-go install github.com/marea/amatl
+go get github.com/marea/amatl
 ```
 
 ## Usage
