@@ -50,9 +50,4 @@ Please make sure to update tests as appropriate.
 
 ## License
 
-This website and it's contents are released under the
-Unlicense, unless otherwise stated.
-
-Do whatever you want ;)
-
 [Unlicense](https://choosealicense.com/licenses/unlicense/)
