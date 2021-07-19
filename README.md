@@ -18,7 +18,7 @@ On first use it will generate the following directories:
 
 ```
 assets/
-dist/
+docs/
 inc/
 ```
 
@@ -28,9 +28,11 @@ This folder contains all your static files.
 
 They will be copied over to the dist folder with the same folder structure.
 
-### Dist
+### Docs
 
 This folder will contain your compiled site.
+
+Defaults to docs to be compatible with Github Pages.
 
 ### Inc
 

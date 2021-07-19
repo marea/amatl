@@ -11,7 +11,7 @@ import (
 )
 
 const SITENAME string = "marea"
-const RESDIR string = "dist"
+const RESDIR string = "docs"
 const INCDIR string = "inc"
 const ASTDIR string = "assets"
 const HEADER string = `<!DOCTYPE html>
