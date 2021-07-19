@@ -77,7 +77,10 @@ func lie(l string) bool {
 
 // Get File path without INCDIR
 func fwi(p string) string {
-	return s.Trim(p, INCDIR+"/")
+	if s.Index(p, INCDIR) == 0 {
+		return p[s.Index(p, INCDIR)+3:]
+	}
+	return p
 }
 
 // Find File URI
