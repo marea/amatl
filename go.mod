@@ -1,3 +1,3 @@
-module github.com/marea/amatl.lite
+module github.com/marea/amatl
 
 go 1.16
