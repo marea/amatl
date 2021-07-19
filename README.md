@@ -5,7 +5,7 @@
 ## Installation
 
 ```bash
-go install github.com/marea/amatl
+go get github.com/marea/amatl
 ```
 
 ## Usage
@@ -51,10 +51,5 @@ discuss what you would like to change.
 Please make sure to update tests as appropriate.
 
 ## License
-
-This website and it's contents are released under the
-Unlicense, unless otherwise stated.
-
-Do whatever you want ;)
 
 [Unlicense](https://choosealicense.com/licenses/unlicense/)
